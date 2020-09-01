@@ -1,2 +1,1 @@
-# databases
-Online Database Exploration
+# Public Databases
